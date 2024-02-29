@@ -1,9 +1,9 @@
 ---
 # Display name
-title: SiYi 𡜞
+title: SiYi 姚
 
 # Name pronunciation (optional)
-name_pronunciation: Siyi Yao
+# name_pronunciation: Siyi Yao
 
 # Full name (for SEO)
 first_name: Siyi
