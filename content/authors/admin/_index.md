@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SiYi 姚
+title: SiYi  姚
 
 # Name pronunciation (optional)
 # name_pronunciation: Siyi Yao
