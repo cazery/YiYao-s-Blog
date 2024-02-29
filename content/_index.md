@@ -128,8 +128,8 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: posts
-    id: posts
+  - block: article
+    id: article
     content:
       title: Recent Posts
       subtitle: ''
