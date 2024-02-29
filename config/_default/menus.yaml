@@ -17,11 +17,11 @@ main:
     url: '#projects'
     weight: 40
   - name: Picture Wall
-    url: '#picture wall'
+    url: '#picturewall'
     weight: 50    
   - name: Photographs
     url: '#photographs'
-    weight: 50
+    weight: 60
   # - name: Publications
   #   url: '#featured'
   #   weight: 60
