@@ -183,24 +183,34 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id : picture wall
     content:
-      title: Gallery
+      title: Picture Wall
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
+  - block: markdown
+    id : photographs
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      title: photographs
+      subtitle: ''
+      text: |-
+        {{< gallery album="my photographs" >}}
     design:
-      columns: '2'
-      view: card
+      columns: '1'
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   # - block: collection
   #   content:
   #     title: Recent Publications
