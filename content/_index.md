@@ -128,7 +128,7 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: collection
+  - block: posts
     id: posts
     content:
       title: Recent Posts
