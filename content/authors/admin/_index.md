@@ -118,3 +118,8 @@ highlight_name: true
 
 少年人行至万里，蕴养心中山海。
 {style="text-align: justify;font-weight: bold;"}
+
+生活往往并非诗意，happy ending是最难实现的理想状态
+但是继续前进吧，永远不要失去迈步的勇气
+为自己而活，做自己的主角，并放自己自由
+{style="text-align: justify;"}
