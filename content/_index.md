@@ -156,6 +156,15 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id : photographs
+    content:
+      title: photographs
+      subtitle: ''
+      text: |-
+        {{< gallery album="my photographs" >}}
+    design:
+      columns: '1'
+  - block: markdown
     id : picturewall
     content:
       title: Picture Wall
@@ -164,15 +173,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  # - block: markdown
-  #   id : photographs
-  #   content:
-  #     title: photographs
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="my photographs" >}}
-  #   design:
-  #     columns: '1'
   - block: collection
     id: posts
     content:
