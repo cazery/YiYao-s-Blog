@@ -11,7 +11,7 @@ main:
     url: '#skills'
     weight: 20
   - name: Articles
-    url: '#article'
+    url: '#articles'
     wight: 30
   - name: Projects
     url: '#projects'
