@@ -183,7 +183,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
-    id : picture wall
+    id : picturewall
     content:
       title: Picture Wall
       subtitle: ''
