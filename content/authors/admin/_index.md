@@ -74,7 +74,7 @@ skills:
       - name: Game
         description: ''
         percent: 100
-        icon: game
+        icon: computer
         icon_pack: fas
       - name: Photography
         description: ''
